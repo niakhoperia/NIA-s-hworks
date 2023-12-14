@@ -1,0 +1,28 @@
+@font-face{
+    font-family: myFont;
+    src: url(monky.bb.ttf);
+}
+h1{
+    font-family: myFont;
+    color: rgb(54, 76, 76);
+    background-image: linear-gradient(aquamarine, yellow);
+    text-align: center;
+    font-size: 50px;
+    
+}
+body{
+    background-image: linear-gradient(green, yellow);
+}
+a{
+    color: rgb(40, 60, 1);
+    font-family: mYFont;
+}
+@font-face{
+    font-family: nnaa;
+    src: url(ghibo.ttf.otf)
+}
+
+b{
+    font-family: nnaa;
+}
+
