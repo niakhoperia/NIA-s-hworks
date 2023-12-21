@@ -1,0 +1,42 @@
+
+h1{
+    color: green;
+    background-color: rgb(160, 246, 160);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-decoration: double;
+    text-align: center;
+    }
+    p{
+        color: rgb(6, 68, 6);
+        font-size: 25px;
+        background-color: aqua;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: normal;
+        text-decoration: underline;
+    }
+    button{
+        color: rgb(18, 115, 83);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    h2{
+        color: yellowgreen;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-decoration: dotted;
+        font-style: inherit;
+    }
+    ul{
+        color: chartreuse;
+        font-style: italic;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-decoration: dashed;
+    }
+    ol{
+        color: seagreen;
+        font-family: fantasy;
+        text-decoration: solid;
+    }
+    body{
+        background-color: rgb(41, 41, 41);
+    }
+    
