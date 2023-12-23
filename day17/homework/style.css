@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Poppins:ital,wght@1,100&family=Rubik+Doodle+Shadow&family=Rubik+Maps&family=Single+Day&display=swap');
+*{
+  font-family: poppins;
+}
+body{
+  background-image: url(./images/pexels-pixabay-220201.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    justify-content: left;
+    display: flex;
+    gap: 30px;
+    margin-right: 100px;
+    margin-top: 20px;
+  }
+  
+  
+  
+  li a {
+    display: block;
+    padding: 8px;
+    opacity: 0.8;
+    margin-left: 100px;
+  }
+
+  a{
+    color: rgb(164, 223, 255);
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 100px;
+    border-color: rgb(255, 255, 255);
+    transition: 0.5s;
+  }
+  
+  
+  a:hover{
+    color: rgb(255, 255, 255) ;
+    transform: scale(1.2);
+    text-decoration: overline;
+  }
+  
+  h1{
+    color: rgb(255, 255, 255);
+    margin-top: 250px;
+    text-shadow:2px 2px rgb(0, 0, 0);
+    margin-left: 40px;
+  }
+  p{
+    color: rgb(189, 255, 224);
+    margin-left: 40px;
+    
+  }
+  #but{
+    margin-left: 150px;
+    width: 300px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    opacity: 0.4;
+  }
+  #but:hover{
+    transform:scale(0.9);
+    cursor: pointer;
+    
+  }
+  
+#new{
+  text-decoration: overline;
+}
+#new:hover{
+  text-decoration: none;
+}
+
+#img{
+  width: 150px;
+  height: 50px;
+  margin-left: 100px;
+
+}
+.lis{
+  margin-left: 180px;
+}
+
+
+
+
+  
+  
+  
+
